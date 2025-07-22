@@ -61,10 +61,10 @@ Un informe .docx con el análisis completo
 
 ---
 
-👩‍🏫 Agradecimientos
+## 👩‍🏫 Agradecimientos:
 Este proyecto fue desarrollado bajo la guía de la profesora Nuria Torres, en el marco del curso de Python 2025.
 
 ---
 
-📬 Contacto
-Lucas Lamiño – [https://www.linkedin.com/in/lucaslami%C3%B1o/]
+##📬 Contacto:
+Lucas Lamiño – [https://www.linkedin.com/in/lucaslami%C3%B1o/] - [lucaslamino0004@gmail.com]
