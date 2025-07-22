@@ -66,5 +66,5 @@ Este proyecto fue desarrollado bajo la guía de la profesora Nuria Torres, en el
 
 ---
 
-##📬 Contacto:
+## 📬 Contacto:
 Lucas Lamiño – [https://www.linkedin.com/in/lucaslami%C3%B1o/] - [lucaslamino0004@gmail.com]
